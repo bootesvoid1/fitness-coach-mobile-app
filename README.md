@@ -8,9 +8,7 @@ When you're ready to explore the full capabilities of Expo, you can Download you
 
 All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the <> button.
 
-If you encounter any issues, feel free to reach out to us on Twitter @expo , in our forums , or join our Discord community .
-
-Features
+Features:
 Fitness Coach Chatbot : Get personalized fitness advice and tips directly within the app.
 Food Tracker : Log meals and track nutritional intake to maintain a balanced diet.
 Snack is Open Source. You can find the code on the GitHub repo .
