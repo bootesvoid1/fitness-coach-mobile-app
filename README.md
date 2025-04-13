@@ -1,11 +1,18 @@
-# Sample Snack app
+Mobile Fitness Coach App
+Welcome to the Mobile Fitness Coach App ! This app is designed to help users stay fit and healthy by providing personalized guidance through a chatbot and tracking their dietary intake. Currently, the app includes two core features: Fitness Coach Chatbot and Food Tracker .
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Getting Started
+Open the App.js file to begin building your app. You can preview the changes directly on your phone or tablet by scanning the QR code or use the iOS or Android emulators. When you're done, click Save and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+When you're ready to explore the full capabilities of Expo, you can Download your project and use it with expo cli .
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the <> button.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+If you encounter any issues, feel free to reach out to us on Twitter @expo , in our forums , or join our Discord community .
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Features
+Fitness Coach Chatbot : Get personalized fitness advice and tips directly within the app.
+Food Tracker : Log meals and track nutritional intake to maintain a balanced diet.
+Snack is Open Source. You can find the code on the GitHub repo .
+
+Let’s build something amazing together!
